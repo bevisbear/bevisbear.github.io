@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://bevisbear.com</id>
+    <id>https://www.bevisbear.com</id>
     <title>熊窝</title>
-    <updated>2021-11-12T06:58:50.454Z</updated>
+    <updated>2021-11-12T06:59:25.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://bevisbear.com"/>
-    <link rel="self" href="https://bevisbear.com/atom.xml"/>
+    <link rel="alternate" href="https://www.bevisbear.com"/>
+    <link rel="self" href="https://www.bevisbear.com/atom.xml"/>
     <subtitle>Bevis熊熊</subtitle>
-    <logo>https://bevisbear.com/images/avatar.png</logo>
-    <icon>https://bevisbear.com/favicon.ico</icon>
+    <logo>https://www.bevisbear.com/images/avatar.png</logo>
+    <icon>https://www.bevisbear.com/favicon.ico</icon>
     <rights>All rights reserved 2021, 熊窝</rights>
     <entry>
         <title type="html"><![CDATA[迁移到Github Pages]]></title>
-        <id>https://bevisbear.com/post/qian-yi-dao-github-pages/</id>
-        <link href="https://bevisbear.com/post/qian-yi-dao-github-pages/">
+        <id>https://www.bevisbear.com/post/qian-yi-dao-github-pages/</id>
+        <link href="https://www.bevisbear.com/post/qian-yi-dao-github-pages/">
         </link>
         <updated>2021-11-12T06:41:40.000Z</updated>
         <content type="html"><![CDATA[<p>反正也很久没有写博文了……</p>
